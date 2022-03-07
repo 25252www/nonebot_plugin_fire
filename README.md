@@ -39,4 +39,9 @@ fire_user_id=1234567 #与该QQ号续火花
 `nonebot.load_plugin("nonebot_plugin_fire")`
 
 ## 截图🖼
+<p align="center">
+  <img src="http://cdn.moyusoldier.cloud/截屏2022-03-07 上午10.38.56.png"
+>
+</p>
+
 

@@ -9,7 +9,7 @@ scheduler = require("nonebot_plugin_apscheduler").scheduler
 fire_user_id = nonebot.get_driver().config.fire_user_id
 
 
-@scheduler.scheduled_job("cron", day="*")
+@scheduler.scheduled_job("cron", minute="*")
 async def run_every_second():
     bot = get_bot()
     await asyncio.sleep(random.randint(1, 10))
