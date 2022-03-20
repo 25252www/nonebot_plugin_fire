@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8", errors="ignore") as fh:
 
 setuptools.setup(
     name="nonebot-plugin-fire",
-    version="1.0.0",
+    version="1.0.1",
     author="moyusoldier",
     author_email="1433221642@qq.com",
     keywords=("pip", "nonebot2", "nonebot", "fire", "nonebot_plugin"),
