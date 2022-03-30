@@ -22,5 +22,8 @@ setuptools.setup(
     ],
     include_package_data=True,
     platforms="any",
-    install_requires=["requests",'nonebot2>=2.0.0-alpha.8,<3.0.0',]
+    install_requires=[
+        'nonebot-plugin-apscheduler>=0.1.2',
+        'nonebot2>=2.0.0-beta.2',
+    ]
 )
