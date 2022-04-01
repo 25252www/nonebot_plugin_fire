@@ -15,7 +15,11 @@ logger.opt(colors=True).info(
     else "未检测到软依赖<y>nonebot_plugin_apscheduler</y>，<r>禁用定时任务功能</r>"
 )
 
-fire_user_id = get_driver().config.fire_user_id
+try:
+    fire_user_id = get_driver().config.fire_user_id
+except Exception as e:
+    logger.error("ValueError:{}", e)
+    logger.error("请配置fire_user_id")
 
 
 async def fire_scheduler():
