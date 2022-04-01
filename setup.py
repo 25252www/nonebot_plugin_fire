@@ -25,5 +25,6 @@ setuptools.setup(
     install_requires=[
         'nonebot-plugin-apscheduler>=0.1.2',
         'nonebot2>=2.0.0-beta.2',
+        'nonebot-adapter-onebot>=2.0.0b1'
     ]
 )
