@@ -1,7 +1,7 @@
 已分手，愿各位珍惜眼前人，用尽全力去爱，不要留下遗憾
 -------------------------------------------------------------------
 <p align="center">
-  <img src="http://cdn.moyusoldier.cloud/8B7C336065F6A936D01285E96EFA7BD2.png" width="50" height="50" alt="nonebot">
+  <img src="http://cdn.moyusoldier.cn/8B7C336065F6A936D01285E96EFA7BD2.png" width="50" height="50" alt="nonebot">
 </p>
 
 
@@ -42,7 +42,7 @@ fire_user_id=1234567 #与该QQ号续火花
 
 ## 截图🖼
 <p align="center">
-  <img src="http://cdn.moyusoldier.cloud/截屏2022-03-07 上午10.38.56.png"
+  <img src="http://cdn.moyusoldier.cn/截屏2022-03-07 上午10.38.56.png"
 >
 </p>
 
